@@ -1,0 +1,5 @@
+    stations = get_station_data(r"C:\Users\Wilson\AppData\Local\tmc\vscode\mooc-programming-22\part06-09_city_bikes\src\stations1.csv")
+    d = distance(stations, "Designmuseo", "Hietalahdentori")
+    print(d)
+    d = distance(stations, "Viiskulma", "Kaivopuisto")
+    print(d)
