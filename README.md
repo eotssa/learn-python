@@ -1,4 +1,3 @@
-This contains the notes I've taken when learning python. Below is the full breakdown of everything combined for easy indexing. The folders are broken down sub-folders with their respective topics. 
 
 
 ## Use of f strings to concatenate 
